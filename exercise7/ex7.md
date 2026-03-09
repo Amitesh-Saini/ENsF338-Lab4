@@ -1,5 +1,3 @@
-# Exercise 7
-
 ## 1. Time complexity of the given `reverse()` implementation
 
 The given implementation has time complexity **O(n^2)**.
@@ -42,5 +40,6 @@ An optimized implementation reverses the list **in-place** by changing the `next
 So the optimized version runs in:
 
 O(n)
+
 
 which is much better than the original **O(n^2)** implementation.
